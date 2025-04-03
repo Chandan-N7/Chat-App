@@ -3,7 +3,7 @@ import Navbar from './components/Navbar'
 import { Navigate, Route, Routes } from 'react-router-dom'
 import HomePage from './Pages/HomePage'
 import AuthPage from './Pages/AuthPage'
-import SettingPage from './Pages/SettingPAge'
+import SettingPage from './Pages/SettingPage'
 import ProfilPage from './Pages/ProfilPage'
 import { useAuthStore } from './store/useAuthStore'
 
