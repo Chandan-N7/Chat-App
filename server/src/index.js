@@ -36,6 +36,6 @@ if(process.env.NODE_ENV === "production"){
 
 server.listen(Port, () => {
     connectDB();
-    console.log(`server is running at http://localhost:${Port}`);
+    console.log(`server is running at http://localhost:${Port}hi`);
     
 });
